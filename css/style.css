@@ -1,0 +1,68 @@
+/* Navigation Section  */
+.nav-link{
+  color: whitesmoke;
+}
+.purpBG{
+  background-color: rgb(120, 17, 218);
+}
+.whiteBG{
+  background-color: whitesmoke;
+}
+
+/* Banner Section  */
+.myBanner{
+  width: 100%;
+  background-image: url(../image/Fornt\ Building.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  max-height: 600px;
+  text-align: center;
+}
+.myBanner h2{
+  font-size: 26vh;
+  color: whitesmoke;
+  text-shadow: 2px 2px black;
+  font-weight: bolder;
+}
+.myBanner p{
+  font-size: 30px;
+  font-style: italic;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+ul label{
+  color: white;
+  margin-right: 30%;
+  font-size: 25px;
+}
+ul b, h3 b{
+  color: red;
+}
+/* About Section  */
+.vision{
+  height: 450px;
+}
+
+/* about Banner  */
+.myBanner2{
+  width: 100%;
+  background-image: url(../image/PrimaryBanner.jpg);
+  background-size: cover;
+  height: 350px;
+  text-align: right;
+}
+.myBanner2 h2{
+  font-size: 140px;
+  color: white;
+  text-shadow: 2px 2px purple;
+}
+.myBanner2 p{
+  font-size: 30px;
+  color: white;
+  text-shadow: 2px 2px purple;
+  font-style: italic;
+}
+.blog{
+  height: 290px;
+}
